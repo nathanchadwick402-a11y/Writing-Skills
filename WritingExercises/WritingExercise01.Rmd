@@ -16,15 +16,15 @@ Heterologous rProtein titres in E. coli are coupled to promoter/RBS architecture
 IPTG-dependent lacUV5 induction of T7 RNAP can impose substantial transcriptional and translational burden, perturbing Sec-dependent export, DnaK/DnaJ/GrpE-mediated proteostasis and GroEL/ES-assisted folding. 
 Periplasmic accumulation additionally engages DsbA/DsbC-dependent oxidative folding and disulfide isomerisation, whereas cytoplasmic expression can disfavour oxidative folding and favour inclusion-body formation.
 
-
 Recombinant product recovery following biomass accumulation involves cell disruption, clarification and chromatographic capture, with IMAC, AEX, CEX, HIC and SEC providing orthogonal separation of rProtein from HCP, gDNA, endotoxin and aggregated species.
 Product-related impurities include clipped species, mispaired disulfides and oligomeric variants, requiring analytical characterisation by SDS-PAGE, SEC-MALS, RP-HPLC and LC-MS.
 
 
 Mammalian expression introduces ER translocation, calnexin/calreticulin cycling, PDI-mediated disulfide isomerisation and COPII-dependent trafficking, followed by Golgi-localised N-glycan processing through MGAT1, MGAT2, B4GALT1 and FUT8. 
 Fc-containing rProteins exhibit host-dependent glycoform distributions affecting FcγR engagement, ADCC, CDC and FcRn-mediated recycling, while EPO production depends on site-specific N- and O-glycan occupancy. 
-Insulin maturation requires proinsulin processing, C-peptide excision and native A/B-chain disulfide connectivity, making chassis genotype, secretion competence, ER capacity and PTM repertoire key determinants of recombinant product quality. 
+Insulin maturation requires proinsulin processing, C-peptide excision and native A/B-chain disulfide connectivity, making chassis genotype, secretion competence, ER capacity and PTM repertoire key determinants of recombinant product quality.
 
+#No explanation just a mess of terms, define terms, and explain WHY and how E.g. why are E.coli coupled? Why were reagents/components/techniques chosen over others what purpose is served very concise but loses any sort of explanation#
 
 ## Writing sample 2
 
@@ -39,7 +39,7 @@ There are a number of multifaceted factors that can influence the production of 
 It is therefore important to take a holistic approach when considering the different factors that may impact the overall production process and to ensure that these are appropriately taken into account during system development. 
 By doing so, it is possible to optimise the production process while also ensuring that the resulting product is aligned with the requirements of its intended application, including any relevant consideration of regulatory, legal, or other considerations associated with the intended product or application. 
 Consideration of the different approaches available can therefore play an important role in enabling informed decision-making by the discerning industrial biotechnologist, allowing them to identify the most suitable strategy for achieving the desired production outcomes across a range of different applications and production contexts.
-
+#lots of explanations helpful but far too broad needs narrowed down to the areas of the study, needs specifics#
 
 ## Writing sample 3
 
