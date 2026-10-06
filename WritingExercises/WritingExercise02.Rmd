@@ -41,5 +41,5 @@ The purified enzyme showed a specific activity of 42 U/mg and was suitable for u
 
 ## Place the emphatic words of a sentence at the end.
 
-Streptomyces produce antibiotics, and genomic data suggests that any given species can potentially produce a wide variety of antibiotics. 
+Streptomyces produce antibiotics, and genomic data suggests that any given species Streptomyces can produce a wide variety of antibiotics. 
 
